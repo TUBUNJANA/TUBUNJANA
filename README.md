@@ -35,8 +35,6 @@ I'm a Software Engineer at **ChikPea Inc.**, where I build scalable full-stack a
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
@@ -59,8 +57,11 @@ I'm a Software Engineer at **ChikPea Inc.**, where I build scalable full-stack a
 - **[Uber Clone](https://github.com/yourusername/uber-clone)**  
   Real-time ride management app with WebSockets and Google Maps.
 
-- **[Server Status Checker](https://github.com/yourusername/server-status-checker)**  
-  Backend tool to monitor uptime, built with Node.js & PostgreSQL.
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=TUBUNJANA&theme=dracula&hide_border=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TUBUNJANA&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TUBUNJANA&theme=dracula&hide_border=false&layout=compact)
 
 - **[Mess Fund Manager](https://github.com/yourusername/mess-fund-manager)**  
   Expense tracking system for student communities.

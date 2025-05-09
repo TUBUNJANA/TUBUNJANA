@@ -54,13 +54,13 @@ I'm a Software Engineer at **ChikPea Inc.**, where I build scalable full-stack a
 
 ## 🧪 Projects
 
-- **[Uber Clone](https://github.com/yourusername/uber-clone)**  
+- **[Uber Clone](https://github.com/TUBUNJANA/uber-clone)**  
   Real-time ride management app with WebSockets and Google Maps.
 
-- **[Server Status Checker](https://github.com/yourusername/server-status-checker)**  
+- **[Server Status Checker](https://github.com/TUBUNJANA/server-status-checker)**  
   Backend tool to monitor uptime, built with Node.js & PostgreSQL.
 
-- **[Mess Fund Manager](https://github.com/yourusername/mess-fund-manager)**  
+- **[Mess Fund Manager](https://github.com/TUBUNJANA/mess-fund-manager)**  
   Expense tracking system for student communities.
 
 📄 Check out my [Resume (PDF)](https://drive.google.com/file/d/1KcGoYXcrA3w-BmYOY2piKjvwEt0Ir640/view?usp=sharing)

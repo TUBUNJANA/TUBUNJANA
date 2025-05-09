@@ -1,36 +1,76 @@
-# 🧑‍💻 About Me
+# 👋 Hi, I'm Tubun Jana
 
-Hi! I'm a **Backend Engineer** with a passion for scalable system design, API development, and performance optimization. I work primarily with **Node.js**, **Python**, and **Java**, and have built full-stack applications using the **MERN stack**. I'm experienced in **Salesforce (Apex, LWC, SOQL)** and cloud technologies like **AWS (EC2, Fargate, Amplify)**. My interests lie in backend development, DevOps, and AI.
-
----
-
-## 📂 Repository Purpose
-
-This repository serves as a **personal portfolio and knowledge base**, showcasing:
-
-- 📄 **Resume** – Up-to-date professional resume in LaTeX format.
-- 🚀 **Projects** – Full-stack applications and tools, including real-world use cases.
-- 🏆 **Achievements** – Recognitions like ranking 1st in the Youth Parliament.
-- 📚 **Certifications & Courses** – Cloud, DevOps, and ML-focused credentials.
-- 🧠 **Learning Resources** – Notes and bookmarks from hands-on experience.
+🚀 Software Engineer | 💻 Full Stack Developer | ⚙️ Backend Specialist  
+🎯 Passionate about solving real-world problems with clean, scalable code.
 
 ---
 
-## 📌 Highlights
+## 💡 About Me
 
-- 🧠 Built a scalable staff management platform (Gig Time) integrated with **Salesforce PPM**, enabling real-time project tracking, document handling, and staff onboarding.
-- 🔍 Developed a **Server Status Checker** using Python & React to monitor system uptime with multi-threaded scheduling.
-- 📱 Designed fraud detection UI for L&T using **React, MUI**, ensuring responsive and intuitive UX.
-- 🛠 Migrated legacy Aura components to modern **LWC**, improving performance by 30%.
-- 🧼 Refactored legacy Java codebase, resolving 400+ security issues with SonarQube.
+I'm a Software Engineer at **ChikPea Inc.**, where I build scalable full-stack applications and integrate enterprise solutions on Salesforce. From crafting smooth UI experiences in React to solving backend challenges with Node.js and Apex, I love bringing systems together to solve real-world problems.
 
----
-
-## 📫 Contact
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 your.email@example.com
+🔍 Currently exploring **Docker**, **DevOps**, and **AI**, with hands-on experience in:
+- Real-time systems (Uber Clone using WebSockets)
+- CRM Integrations (Salesforce-native apps)
+- Secure API design with **OAuth 2.0**
+- PDF and dynamic data handling in React
 
 ---
 
-> Feel free to explore, fork, and connect!
+## 🛠 Tech Stack & Tools
+
+**Languages:**  
+`JavaScript` `Python` `Java` `C` `Apex`  
+
+**Web & App:**  
+`React` `Node.js` `Express` `MUI` `TypeScript`  
+
+**Database:**  
+`PostgreSQL` `MongoDB` `SOQL`  
+
+**DevOps & Cloud:**  
+`Docker` `AWS EC2` `AWS Amplify` `Fargate`  
+
+**CRM & Platforms:**  
+`Salesforce (LWC, Apex)` `GitHub` `Git` `Jira`
+
+---
+
+## 💼 Experience Highlights
+
+- 🧠 Built **Gig Time (GT)** — A full-featured staff management app integrated with Salesforce PPM.
+- 🔄 Converted legacy **Aura** components to **Lightning Web Components**, boosting performance by up to 30%.
+- 🛡️ Resolved 400+ moderate and 20+ critical security issues in Java codebase using **SonarQube**.
+- 🚖 Created a **real-time Uber clone** with Google Maps, Socket.IO, and advanced state tracking.
+
+---
+
+## 🧪 Projects
+
+- **[Uber Clone](https://github.com/yourusername/uber-clone)**  
+  Real-time ride management app with WebSockets and Google Maps.
+
+- **[Server Status Checker](https://github.com/yourusername/server-status-checker)**  
+  Backend tool to monitor uptime, built with Node.js & PostgreSQL.
+
+- **[Mess Fund Manager](https://github.com/yourusername/mess-fund-manager)**  
+  Expense tracking system for student communities.
+
+📄 Check out my [Resume (PDF)](https://drive.google.com/file/d/1KcGoYXcrA3w-BmYOY2piKjvwEt0Ir640/view?usp=sharing)
+
+---
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tubun-jana/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/tubun/)  
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-1f8a36?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/tubunjana/practice/)
+
+---
+
+📫 **tubunjana2018@gmail.com**  
+💼 Open to backend/full-stack roles & freelance opportunities.
+
+---
+
+> *“Simplicity is the soul of efficiency.” – Austin Freeman*
